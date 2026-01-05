@@ -6,7 +6,7 @@
 SecuriNET is a comprehensive network security application designed for Windows systems, providing robust monitoring, firewall management, and access control tools. Its intuitive interface allows both IT professionals and traditional users to maintain a secure environment while keeping track of network activity in real-time. __SecuriNET__ is designed to be both user-friendly and powerful, helping users maintain control over their network security. Whether you’re securing a home network or monitoring multiple endpoints in a small business environment, SecuriNET provides the tools to stay informed, block threats, and maintain peace of mind.
 
 
-[Installation](https://github.com/FreeCoderExperience/SecuriNET/#installation) - [FAQ](https://github.com/FreeCoderExperience/SecuriNET/#❓frequently-asked-questions) - [Documentation](https://github.com/FreeCoderExperience/SecuriNET/documentation) - [Report a Bug](https://github.com/FreeCoderExperience/SecuriNET/issues)
+[Installation](https://github.com/FreeCoderExperience/SecuriNET/#installation) - [FAQ](https://github.com/FreeCoderExperience/SecuriNET/#frequently-asked-questions) - [Documentation](https://github.com/FreeCoderExperience/SecuriNET/documentation) - [Report a Bug](https://github.com/FreeCoderExperience/SecuriNET/issues)
 
 [![Version](https://img.shields.io/github/v/release/FreeCoderExperience/SecuriNET?label=Version)](https://github.com/FreeCoderExperience/SecuriNET/releases)
 ![C#](https://img.shields.io/github/languages/top/FreeCoderExperience/SecuriNET?color=blue&label=C%23)
