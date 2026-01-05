@@ -101,7 +101,7 @@ Yes. When blocking is enabled, __suspicious or malicious activity can be detecte
 ---
 
 ### __6. Is my data sent to the cloud or stored locally?__
-Most operational data is stored __locally on your system__. Limited account verification data is securely processed via cloud services when required.
+Most operational data is stored __locally on your system__. Limited account verification data is securely processed via cloud services (Cloudflare) when required.
 
 ---
 
