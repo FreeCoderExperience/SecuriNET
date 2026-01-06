@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/FreeCoderExperience/SecuriNET/main/images/logotransparentv1.png" alt="SecuriNET" width="300">
 </a>
 
-SecuriNET is a comprehensive network security application designed for Windows systems, providing robust monitoring, firewall management, and access control tools. Its intuitive interface allows both IT professionals and traditional users to maintain a secure environment while keeping track of network activity in real-time. __SecuriNET__ is designed to be both user-friendly and powerful, helping users maintain control over their network security. Whether you’re securing a home network or monitoring multiple endpoints in a small business environment, SecuriNET provides the tools to stay informed, block threats, and maintain peace of mind.
+SecuriNET is a comprehensive network security application designed for Windows systems, providing robust monitoring, firewall management, and access control tools. Its intuitive interface allows both IT professionals and traditional users to maintain a secure environment while keeping track of network activity in real-time. SecuriNET is designed to be both user-friendly and powerful, helping users maintain control over their network security. Whether you’re securing a home network or monitoring multiple endpoints in a small business environment, SecuriNET provides the tools to stay informed, block threats, and maintain peace of mind.
 
 
 [Installation](https://github.com/FreeCoderExperience/SecuriNET/#installation) - [FAQ](https://github.com/FreeCoderExperience/SecuriNET/#faq) - [Documentation](https://github.com/FreeCoderExperience/SecuriNET/documentation) - [Report a Bug](https://github.com/FreeCoderExperience/SecuriNET/issues)
@@ -22,19 +22,19 @@ In order to use SecuriNET, you must create an account in the app. Account verifi
 
 ## Features
 
-__1. Firewall Management__
-
-- View and manage inbound and outbound firewall rules for Domain, Private, and Public profiles.
-- Create, edit, and delete custom firewall rules with ease.
-- Export firewall rules to CSV for auditing or backup.
-- Block or unblock IPs directly from the event log.
-
-__2. Connection Monitoring__
+__1. Connection Monitoring__
 
 - Real-time monitoring of active TCP connections.
 - Logs suspicious connection attempts, including source IP, country, and threat assessment.
 - Automatically blocks malicious IPs based on configurable rules.
 - Provides visual graphs of connection history and threat levels per IP.
+
+__2. Firewall Management__
+
+- View and manage inbound and outbound firewall rules for Domain, Private, and Public profiles.
+- Create, edit, and delete custom firewall rules with ease.
+- Export firewall rules to CSV for auditing or backup.
+- Block or unblock IPs directly from the event log.
 
 __3. Port & Service Awareness__
 
