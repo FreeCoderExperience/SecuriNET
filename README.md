@@ -164,7 +164,7 @@ We welcome contributions, including feedback, feature requests, and suggestions.
 
 ## __License__
 
-__SecuriNET__ is currently released as proprietary free software
+__SecuriNET__ is currently released as proprietary free software.
 The source code is not open source.
 
 Future versions may be released under a different license and may be made open source (if the community so wishes).
