@@ -13,7 +13,7 @@ SecuriNET is a comprehensive network security application designed for Windows s
 [Installation](https://github.com/FreeCoderExperience/SecuriNET/#installation) - [FAQ](https://github.com/FreeCoderExperience/SecuriNET/#faq) - [Documentation](https://github.com/FreeCoderExperience/SecuriNET/wiki) - [Report a Bug](https://github.com/FreeCoderExperience/SecuriNET/issues)
 
 [![Version](https://img.shields.io/github/v/release/FreeCoderExperience/SecuriNET?label=Version)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)
-[![Users](https://img.shields.io/endpoint?url=https%3A%2F%2Fyour-worker-domain.workers.dev%2Fdownloads)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)
+[![Users](https://img.shields.io/endpoint?url=https%3A%2F%2Fsecurinet.auth9.workers.dev%2Fdownloads)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)
 [![C#](https://img.shields.io/github/languages/top/FreeCoderExperience/SecuriNET?color=blue&label=C%23)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)
 [![XAML](https://img.shields.io/github/languages/top/FreeCoderExperience/SecuriNET?color=purple&label=XAML)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)
 [![JavaScript](https://img.shields.io/github/languages/top/FreeCoderExperience/SecuriNET?color=yellow&label=JavaScript)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)
