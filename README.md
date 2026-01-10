@@ -172,3 +172,15 @@ __SecuriNET__ is currently released as proprietary free software.
 The source code is not open source.
 
 Future versions may be released under a different license and may be made open source (if the community so wishes).
+
+## __Disclaimer__
+
+__SecuriNET__ is provided **“as is”**, without warranty of any kind, express or implied.
+
+The authors, contributors, and maintainers of SecuriNET **assume no responsibility or liability** for any actions taken by users of the application, nor for any damages, losses, or issues that may occur as a result of installing, running, or using the software. This includes, but is not limited to, direct, indirect, incidental, consequential, or special damages, whether arising from the behavior of the application itself or from user actions performed using the application.
+
+By using SecuriNET, you agree that you will **not hold SecuriNET, its authors, or its contributors liable**, to the fullest extent permitted by applicable law, for any outcomes resulting from the use or misuse of the software.
+
+While SecuriNET is a network security tool designed to help monitor network activity, manage firewall rules, log connections, and assist in preventing or mitigating certain types of attacks, **it does not guarantee the security** of any network, system, device, or environment. Security depends on many factors beyond the scope of this application, including system configuration, user behavior, and external threats.
+
+Users are solely responsible for evaluating the suitability of SecuriNET for their specific use case and for implementing additional security measures as necessary.
