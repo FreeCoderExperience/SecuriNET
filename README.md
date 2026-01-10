@@ -77,7 +77,7 @@ __8. Event Logging & Incident Response__
 - Supports copying IP addresses directly from the interface for quick action.
 
 <a name="faq"></a>
-## ❓ __Frequently Asked Questions__
+## __Frequently Asked Questions__
 
 ### __1. Is SecuriNET free to use?__
 Yes. __SecuriNET is free to use__, with all core security and monitoring features available at no cost.
