@@ -1,6 +1,8 @@
 <div align="center">
 <a href="https://github.com/FreeCoderExperience/SecuriNET">
   <img src="https://raw.githubusercontent.com/FreeCoderExperience/SecuriNET/main/images/logotransparentv1.png#gh-dark-mode-only" alt="SecuriNET" width="300">
+</a>
+<a href="https://github.com/FreeCoderExperience/SecuriNET">
   <img src="https://raw.githubusercontent.com/FreeCoderExperience/SecuriNET/main/images/logotransparentv2.png#gh-light-mode-only" alt="SecuriNET" width="300">
 </a>
 
