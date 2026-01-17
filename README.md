@@ -1,4 +1,4 @@
-<iv align="center">
+<div align="center">
 <a href="https://github.com/FreeCoderExperience/SecuriNET">
   <picture>
     <source srcset="https://raw.githubusercontent.com/FreeCoderExperience/SecuriNET/main/images/logotransparentv1-300.png" media="(prefers-color-scheme: dark)">
