@@ -14,9 +14,12 @@ SecuriNET is a comprehensive network security application designed for Windows s
 
 [![Version](https://img.shields.io/github/v/release/FreeCoderExperience/SecuriNET?label=Version)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)
 [![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fsecurinet.auth9.workers.dev%2Fdownloads)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)
-[![C#](https://img.shields.io/github/languages/top/FreeCoderExperience/SecuriNET?color=blue&label=C%23)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)
-[![XAML](https://img.shields.io/github/languages/top/FreeCoderExperience/SecuriNET?color=purple&label=XAML)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)
-[![JavaScript](https://img.shields.io/github/languages/top/FreeCoderExperience/SecuriNET?color=yellow&label=JavaScript)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)
+<!--[![C#](https://img.shields.io/github/languages/top/FreeCoderExperience/SecuriNET?color=blue&label=C%23)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)-->
+<!--[![XAML](https://img.shields.io/github/languages/top/FreeCoderExperience/SecuriNET?color=purple&label=XAML)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)-->
+<!--[![JavaScript](https://img.shields.io/github/languages/top/FreeCoderExperience/SecuriNET?color=yellow&label=JavaScript)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)-->
+[![C#](https://img.shields.io/badge/C#-59%25-blue)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)
+[![XAML](https://img.shields.io/badge/XAML-31%25-orange)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)
+[![JavaScript](https://img.shields.io/badge/JavaScript-5%25-orange)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-5%25-orange)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)
 
 In order to use SecuriNET, you must create an account in the app (no email required). Account creation is performed via Cloudflare to ensure that access to the application’s security features is protected and you are secure.
