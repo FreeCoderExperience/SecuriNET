@@ -26,6 +26,8 @@ In order to use SecuriNET, you must create an account in the app (no email requi
 
 </div>
 
+<img src="https://raw.githubusercontent.com/FreeCoderExperience/SecuriNET/main/images/dashboard.png" alt="Dashboard" width="10000">
+
 <hr style="height:4px; background-color:black; border:none;">
 
 ## Features
