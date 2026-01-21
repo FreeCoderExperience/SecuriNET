@@ -14,7 +14,7 @@ SecuriNET is a comprehensive network security application designed for Windows s
 
 [![Version](https://img.shields.io/github/v/release/FreeCoderExperience/SecuriNET?label=Version)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)
 [![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fsecurinet.auth9.workers.dev%2Fdownloads)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)
-[![C#](https://img.shields.io/badge/C#-59%25-blue)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)
+[![C#](https://img.shields.io/badge/C%23-59%25-blue)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)
 [![XAML](https://img.shields.io/badge/XAML-31%25-purple)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)
 [![JavaScript](https://img.shields.io/badge/JavaScript-5%25-yellow)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-5%25-orange)](https://github.com/FreeCoderExperience/SecuriNET/releases/latest)
